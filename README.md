@@ -66,7 +66,7 @@
 
 Adspirer is the AI paid media manager — an MCP server that plans, builds, monitors, and optimizes campaigns across Google, Meta, Amazon, LinkedIn, TikTok, and ChatGPT Ads, working inside ChatGPT, Claude, Cursor, and the AI tools your team already uses. You set the goal. It runs the account.
 
-**Areas:** AI · Advertising · Paid Media · MCP · Marketing Automation
+**Areas:** Artificial Intelligence · Advertising · Paid Media · MCP · Marketing Automation
 
 ## Adspirer on APIs.io
 
@@ -86,6 +86,12 @@ Event-driven and webhook contracts.
 
 - [Adspirer Com Webhooks](https://apis.io/asyncapis/adspirer-com/adspirer-com-webhooks/)
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adspirer-com-mcp.yml](https://apis.io/servers/adspirer-com/adspirer-com-mcp-yml/)
+
 #### JSON-LD (1)
 
 Linked-data contexts for the provider's vocabulary.
@@ -102,19 +108,19 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adspirer Com Domain Security](https://apis.io/security/adspirer-com/adspirer-com-domain-security/)
+- [Adspirer Domain Security](https://apis.io/security/adspirer-com/adspirer-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adspirer Com Plans Pricing](https://apis.io/plans/adspirer-com/adspirer-com-plans-pricing/)
+- [Adspirer Plans Pricing](https://apis.io/plans/adspirer-com/adspirer-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adspirer Com Rate Limits](https://apis.io/rate-limits/adspirer-com/adspirer-com-rate-limits/)
+- [Adspirer Rate Limits](https://apis.io/rate-limits/adspirer-com/adspirer-com-rate-limits/)
 
 ## Where to find this API
 
@@ -133,18 +139,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 54.4** — strong · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 48.3** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.3 |
+| Discoverability | 65.0 |
 | Contract quality | 45.5 |
-| Contract governance | 79.1 |
-| Operational transparency | 28.9 |
+| Contract governance | 35.6 |
+| Operational transparency | 26.2 |
 | Developer ergonomics | 54.0 |
-| Access clarity | 60.0 |
+| Access clarity | 61.7 |
 
-**Agent readiness 53.8** — agent-ready (gated down from agent-native)
+**Agent readiness 47.0** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -157,21 +163,24 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Error Semantics | derived (partial credit) |
 | OpenAPI Examples | — |
 | Rate Limit Signal | documented (partial credit) |
-| Event Surface Described | unknown |
+| Event Surface Described | yes |
 | Agent Skills | unknown |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | conformant |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
-| Protected Resource Metadata | verified |
+| Protected Resource Metadata | — |
 | Dynamic Client Registration | yes |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adspirer-com/](https://apis.io/providers/adspirer-com/).
 
